@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+main{
+    Background: linear-gradient(#fff09b, #ffe65b);
+    background-color: #ffda33;
+    position: relative;
+    text-align: center;
+    height: 850px;
+}
+.bemvindo{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 100px;
+}
+.prof{
+    font-family: 'Courier New', Courier, monospace;
+}
+.aluno{
+    font-family: 'Courier New', Courier, monospace;
+}
+.seccadastro1{
+    height: 550px;
+    width: 500px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    text-align: center;
+}
+.seccadastro2{
+    height: 550px;
+    width: 500px;
+    position: absolute;
+    top: 200px;
+    left: 925px;
+    text-align: center;
+}
+.caixatexto{
+    height: 45px;
+    width: 325px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid #613a18;
+}
+.botao{
+    border: 2px solid;
+    border-color: black;
+    background-color:#613a18;
+    color: white;
+    border-radius: 50px;
+    width: 200px;
+    height: 55px;
+    
+}
